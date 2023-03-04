@@ -5,7 +5,7 @@
             "version": "0.0.2",
             "desc": "修复语种支持问题",
             "sha256": "c7f70d3c0d88cb656312f07908580d8723faaf03d06a0f92976213042158bd3c",
-            "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/papago-bobplugin/bob-plugin-akl-papago-translate_v0.0.2.bobplugin",
+            "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.2/bob-plugin-akl-papago-translate_v0.0.2.bobplugin",
             "minBobVersion": "0.5.0"
         },
         {
