@@ -1,4 +1,4 @@
-# bob-plugin-akl-deepl-papago-translate
+# bob-plugin-akl-papago-free-translate
 无需apiKey;无需账号密码;免费无限次使用papago;专注韩语翻译
 
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
