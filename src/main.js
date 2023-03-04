@@ -18,8 +18,8 @@ function translate(query, completion) {
             });
             throw err;
         }
-        let source_lang = sourceLanguage || 'ZH';
-        let target_lang = targetLanguage || 'EN';
+        let source_lang = sourceLanguage || 'zh-CN';
+        let target_lang = targetLanguage || 'en';
         const translate_text = query.text || '';
         if (translate_text !== '') {
             const header = {
@@ -52,10 +52,12 @@ function translate(query, completion) {
                     });
                 }
                 source_lang = detectResp.data.langCode;
-                if (source_lang !== 'ko') {
-                    target_lang = 'ko';
-                } else {
-                    target_lang = 'en';
+                if ('auto' === target_lang) {
+                    if (source_lang !== 'ko') {
+                        target_lang = 'ko';
+                    } else {
+                        target_lang = 'en';
+                    }
                 }
                 const resp = await $http.request({
                     method: "POST",

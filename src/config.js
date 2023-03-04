@@ -1,7 +1,7 @@
 const supportedLanguages = [
     ["auto", "auto"],
-    ["zh-Hans", "zh"],
-    ["zh-Hant", "zh"],
+    ["zh-Hans", "zh-CN"],
+    ["zh-Hant", "zh-TW"],
     ["en", "en"],
     ["ja", "ja"],
     ["ru", "ru"],
