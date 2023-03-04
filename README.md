@@ -29,6 +29,8 @@ bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网�
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
+>[Papago Naver 韩语翻译(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-papago-free-translate)
+
 >[Bob翻译剪切板图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
 
 >[Bob的Postman接口调试插件](https://github.com/akl7777777/bob-plugin-akl-postman)
