@@ -1,6 +1,6 @@
 {
     "identifier": "com.akl.bob-plugin-akl-papago-free-translate",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "category": "translate",
     "name": "Free Papago Translate",
     "summary": "免token调用papago韩语翻译",
@@ -17,11 +17,11 @@
             "defaultValue": "akl7777777",
             "menuValues": [
               {
-                "title": "免费调用papago;无需token;无需key;",
+                "title": "免秘钥调用papago韩语翻译",
                 "value": "akl7777777"
               }
             ],
-            "desc":"小芍同学免费调用papago;无需token;无需key;"
+            "desc":"免费调用papago;无需token;无需key;"
         }
     ]
 }

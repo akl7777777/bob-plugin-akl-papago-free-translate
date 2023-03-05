@@ -1,7 +1,6 @@
 var config = require('./config.js');
 var utils = require('./utils.js');
 
-
 function supportLanguages() {
     return config.supportedLanguages.map(([standardLang]) => standardLang);
 }
@@ -83,7 +82,6 @@ function translate(query, completion) {
                         },
                     });
                 }
-
             } catch (e) {
                 Object.assign(e, {
                     _type: 'network',
