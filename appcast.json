@@ -1,19 +1,26 @@
 {
-    "identifier": "com.akl.bob-plugin-akl-deepl-free-translate",
-    "versions": [
-        {
-            "version": "0.0.2",
-            "desc": "修复语种支持问题",
-            "sha256": "c7f70d3c0d88cb656312f07908580d8723faaf03d06a0f92976213042158bd3c",
-            "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.2/bob-plugin-akl-papago-translate_v0.0.2.bobplugin",
-            "minBobVersion": "0.5.0"
-        },
-        {
-            "version": "0.0.1",
-            "desc": "初始版本",
-            "sha256": "99b5e00e4c2efdd23d946a90dc79802750e2855442f36c78e7bb0518ba9d9265",
-            "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.1/bob-plugin-akl-papago-translate_v0.0.1.bobplugin",
-            "minBobVersion": "0.5.0"
-        }
-    ]
+  "identifier": "com.akl.bob-plugin-akl-deepl-free-translate",
+  "versions": [
+    {
+      "version": "0.0.3",
+      "desc": "优化",
+      "sha256": "47705d5edb34c6f588fef92546474062a57f590fa36f54aac1a827da4c9ae9d5",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.3/bob-plugin-akl-papago-free-translate_v0.0.3.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.2",
+      "desc": "修复语种支持问题",
+      "sha256": "c7f70d3c0d88cb656312f07908580d8723faaf03d06a0f92976213042158bd3c",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.2/bob-plugin-akl-papago-translate_v0.0.2.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.1",
+      "desc": "初始版本",
+      "sha256": "99b5e00e4c2efdd23d946a90dc79802750e2855442f36c78e7bb0518ba9d9265",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.1/bob-plugin-akl-papago-translate_v0.0.1.bobplugin",
+      "minBobVersion": "0.5.0"
+    }
+  ]
 }
