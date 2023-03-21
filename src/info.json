@@ -1,6 +1,6 @@
 {
     "identifier": "com.akl.bob-plugin-akl-papago-free-translate",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "category": "translate",
     "name": "Free Papago Translate",
     "summary": "免token调用papago韩语翻译",
