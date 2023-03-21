@@ -2,6 +2,13 @@
   "identifier": "com.akl.bob-plugin-akl-papago-free-translate",
   "versions": [
     {
+      "version": "0.0.5",
+      "desc": "优化",
+      "sha256": "c43db6a608821983e76696d50f2874db73d0e1508a4615f4dd7ed6e3c29337bd",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-papago-free-translate/releases/download/v0.0.5/bob-plugin-akl-papago-free-translate_v0.0.5.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.3",
       "desc": "优化",
       "sha256": "47705d5edb34c6f588fef92546474062a57f590fa36f54aac1a827da4c9ae9d5",
